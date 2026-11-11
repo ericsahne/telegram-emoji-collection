@@ -1,93 +1,68 @@
+Telegram Emoji Collection
 
-# Telegram Emoji Collection
+A categorized collection of Telegram-style animated emoji assets in TGS and JSON formats, organized for easy browsing and access.
 
-A comprehensive collection of Telegram animated, static, premium, and custom emoji assets organized into categories.
+📁 Repository Structure
 
-Explore, preview, and integrate emoji assets into your projects.
-
-## Features
-
-- Animated Emoji Collection
-- Static Emoji Collection
-- Premium Emoji Packs
-- Custom Emoji Collection
-- Reaction Emojis
-- Effect & Flame Emojis
-- Category-Based Organization
-- Original File Formats
-- Preview Gallery
-- Developer-Friendly Resources
-
-## Categories
-
-| Category | Description |
-|---|---|
-| Effects | Sparkle, Magic, Explosion |
-| Flame | Fire and Burning Effects |
-| Love | Hearts, Romance, Kisses |
-| Meme | Funny and Reaction Emojis |
-| Animals | Cats, Dogs, Wildlife |
-| Gaming | Gaming and Esports |
-| Premium | Premium Emoji Collections |
-| Reactions | Smile, Laugh, Cry, Angry |
-| Nature | Plants and Weather |
-| Food | Food and Drinks |
-| Sports | Sports and Activities |
-| Music | Music and Instruments |
-| Seasonal | Events and Celebrations |
-
-## File Formats
-
-- `.tgs` – Telegram Animated Stickers
-- `.webm` – Video Stickers
-- `.webp` – Static and Video Sticker Assets
-- `.png` – Image Previews
-- `.json` – Metadata and Animation Data
-
-## Repository Structure
-
-```text
 telegram-emoji-collection/
-├── animated/
-├── static/
-├── premium/
-├── effects/
-├── flame/
-├── love/
-├── meme/
-├── animals/
-├── gaming/
-├── reactions/
-├── stickers/
-├── previews/
-├── metadata/
-├── docs/
-└── README.md
-```
+│
+├── tgs/
+│   ├── effect-emoji/
+│   ├── finance-emoji/
+│   ├── flame-emoji/
+│   ├── mashup-emoji/
+│   ├── neon-emoji/
+│   ├── ninny-emoji/
+│   ├── pennant-emoji/
+│   └── sm-emoji/
+│
+├── json/
+│   ├── effect-emoji/
+│   ├── finance-emoji/
+│   ├── flame-emoji/
+│   ├── mashup-emoji/
+│   ├── neon-emoji/
+│   ├── ninny-emoji/
+│   ├── pennant-emoji/
+│   └── sm-emoji/
+│
+├── README.md
+└── .gitignore
 
-## Usage
+📦 Available Formats
 
-Browse the categories, download the required assets,
-and follow the relevant format-specific integration
-instructions.
+Format| Description
+".tgs"| Telegram animated emoji files
+".json"| JSON animation data and related files
 
-## Attribution & Licensing
+🗂️ Categories
 
-This repository is an independent community resource.
-It is not affiliated with or endorsed by Telegram.
+- Effect Emoji
+- Finance Emoji
+- Flame Emoji
+- Mashup Emoji
+- Neon Emoji
+- Ninny Emoji
+- Pennant Emoji
+- SM Emoji
 
-Telegram names, trademarks, and third-party emoji
-artwork remain the property of their respective owners.
+🚀 Usage
 
-Each asset must be distributed and used according
-to its applicable license and permissions.
+1. Browse the category you need.
+2. Open the "tgs/" or "json/" directory.
+3. Select and download the required file.
+4. Use it with compatible tools or applications.
 
-## Maintained By
+⚠️ Disclaimer
 
-**Eric Sahne**
+This is an independent community collection and is not affiliated with, endorsed by, or officially connected to Telegram.
 
-GitHub: https://github.com/ericsahne
+Telegram names, trademarks, and emoji artwork belong to their respective owners. Asset availability in this repository does not imply permission to redistribute or reuse it. Please verify the applicable rights and permissions before using or sharing any asset.
+
+🤝 Contributions
+
+Contributions are welcome! Please ensure that submitted assets are properly categorized and that you have the necessary rights or permission to share them.
 
 ---
 
-Contributions and improvements are welcome!
+Maintained by Eric Sahne
