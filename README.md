@@ -1,9 +1,10 @@
-Telegram Emoji Collection
+# Telegram Emoji Collection
 
 A categorized collection of Telegram-style animated emoji assets in TGS and JSON formats, organized for easy browsing and access.
 
-📁 Repository Structure
+## 📁 Repository Structure
 
+```
 telegram-emoji-collection/
 │
 ├── tgs/
@@ -28,14 +29,16 @@ telegram-emoji-collection/
 │
 ├── README.md
 └── .gitignore
+```
 
-📦 Available Formats
+## 📦 Available Formats
 
-Format| Description
-".tgs"| Telegram animated emoji files
-".json"| JSON animation data and related files
+| Format | Description |
+|--------|-------------|
+| `.tgs` | Telegram animated emoji files |
+| `.json` | JSON animation data and related files |
 
-🗂️ Categories
+## 🗂️ Categories
 
 - Effect Emoji
 - Finance Emoji
@@ -46,20 +49,20 @@ Format| Description
 - Pennant Emoji
 - SM Emoji
 
-🚀 Usage
+## 🚀 Usage
 
 1. Browse the category you need.
-2. Open the "tgs/" or "json/" directory.
+2. Open the `tgs/` or `json/` directory.
 3. Select and download the required file.
 4. Use it with compatible tools or applications.
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This is an independent community collection and is not affiliated with, endorsed by, or officially connected to Telegram.
 
 Telegram names, trademarks, and emoji artwork belong to their respective owners. Asset availability in this repository does not imply permission to redistribute or reuse it. Please verify the applicable rights and permissions before using or sharing any asset.
 
-🤝 Contributions
+## 🤝 Contributions
 
 Contributions are welcome! Please ensure that submitted assets are properly categorized and that you have the necessary rights or permission to share them.
 
